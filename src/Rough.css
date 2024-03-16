@@ -1,0 +1,25 @@
+.sliderContainer {
+  width: 100%;
+  margin: 40px;
+}
+.singleCarousel {
+  margin: 0;
+  height: 500px;
+  width: 300px;
+  display: flex;
+}
+
+/* const imgData = [
+    {
+      title: "Bengal cat",
+      src: "./src/Home/HomeApp Assets/BengalCat.jpg",
+    },
+    {
+      title: "MaineCoon cat",
+      src: "./src/Home/HomeApp Assets/MaineCoon.jpg",
+    },
+    {
+      title: "Siamese cat",
+      src: "./src/Home/HomeApp Assets/Siamese.png",
+    },
+  ]; */

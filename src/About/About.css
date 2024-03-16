@@ -1,0 +1,64 @@
+.aboutContainer {
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.aboutDescription {
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+  padding: 1rem;
+  font-size: 1.2rem;
+  max-width: 60%;
+}
+.aboutImage img {
+  height: 550px;
+  width: 350px;
+}
+.aboutSection {
+  padding: 10px;
+}
+
+.aboutSection h2,
+.aboutSection h3 {
+  color: #e28862;
+}
+
+.aboutSection p {
+  line-height: 1.8;
+}
+
+.aboutSection a {
+  color: #e28862;
+  text-decoration: none;
+}
+
+.aboutSection a:hover {
+  text-decoration: underline;
+}
+
+.missionContainer,
+.offerContainer {
+  display: flex;
+}
+.missionContainer img {
+  height: 150px;
+}
+.offerContainer img {
+  height: 150px;
+}
+
+.aboutConnect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  gap: 3rem;
+}
+
+.aboutConnect i {
+  cursor: pointer;
+}
+
+.aboutConnect i:hover {
+  color: rgba(255, 255, 255, 0.7);
+}

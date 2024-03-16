@@ -1,0 +1,37 @@
+.contactContainer {
+  display: flex;
+  line-height: 25px;
+  margin: 2rem 5rem;
+  gap: 5rem;
+}
+.contactDescription {
+  border: 1px solid rgb(255, 255, 255);
+  padding: 1rem;
+  font-size: 1.1rem;
+  width: 50%;
+}
+.contactDescription h1 {
+  color: #e28862;
+}
+.formContainer {
+  background-color: #ffffff25;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.formContainer input,
+textarea {
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
+.submit {
+  background-color: #e28862;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+.submit:active {
+  box-shadow: inset 1px 1px 10px #210909;
+}

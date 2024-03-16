@@ -1,0 +1,41 @@
+.coatCatagoryList {
+  list-style: none;
+  margin-left: 1.5rem;
+  padding: 0 10px;
+  background-color: rgba(255, 255, 255, 0.173);
+  border-radius: 50px;
+  background-size: contain;
+}
+.coatsDescription {
+  padding: 20px;
+}
+.coatsContainer h1 {
+  color: #e28862;
+  font-size: 2.5rem;
+}
+.coatListItem {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+.coatListItem h1 {
+  font-size: 2rem;
+  margin-left: 30px;
+}
+.coatImageContainer img {
+  margin-right: 10px;
+  height: 350px;
+  width: 480px;
+  border-radius: 20px;
+  filter: drop-shadow(1px 1px 10px white);
+}
+.coatsList {
+  display: flex;
+}
+.subCoatColor {
+  list-style: none;
+  background-color: #e28862;
+  margin: 1rem;
+  padding: 10px 20px;
+  border-radius: 10px 100px / 120px;
+}

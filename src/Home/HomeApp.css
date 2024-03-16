@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+.sliderContainer {
+  margin: 1rem 3rem;
+  padding: 1rem 2rem 2rem 2rem;
+  background-color: #200909e6;
+  border-radius: 40px;
+  position: relative;
+}
+.sliderContainer h1 {
+  color: #e28862;
+  filter: drop-shadow(2px 2px 0 #ffffff);
+  text-align: center;
+  margin: 5px 0;
+  font-family: "Acme";
+  font-size: 2.5em;
+}
+.arrowButtons {
+  font-size: 3rem;
+  cursor: pointer;
+}
+.arrowButtons:active {
+  color: black;
+}
+.swiperEl {
+  display: flex;
+}
+.catcontainer {
+  display: flex;
+  margin: 0 3rem;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+  align-items: center;
+}
+
+.cat {
+  height: 450px;
+  width: 250px;
+  margin: 0px 10px;
+  background-size: cover;
+  background-position: 55%;
+  background-repeat: no-repeat;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 1px 1px 7px 1px #ffffff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.cat:hover {
+  width: 140%;
+}
+.cat h1 {
+  color: #ffffff;
+  filter: drop-shadow(4px 4px 0 black);
+  opacity: 0;
+  font-size: 0;
+  transition: all 0.3s ease-in-out;
+}
+.cat:hover h1 {
+  font-size: 3rem;
+  opacity: 1;
+}
+
+.Bengal,
+.Munchkin {
+  background-position: 70%;
+}
+.BritishShorthair,
+.Himalayan,
+.NorwegianForest,
+.ScottishFold {
+  background-position: 40%;
+}
+.Persian,
+.Sphynx {
+  background-position: 20%;
+}
+.homeDes {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.4rem;
+  line-height: 2.5rem;
+  margin: 4rem 0;
+}
+.homeDescriptionPara {
+  margin-bottom: 30px;
+  width: 80%;
+  padding: 3rem;
+  background-color: #e2886282;
+  box-shadow: -1px 1px 22px -10px #ffffff;
+}
+
+.homePara1,
+.homePara3 {
+  border-radius: 100px 0 0 100px;
+  align-self: flex-end;
+}
+
+.homePara2 {
+  border-radius: 0 100px 100px 0;
+  align-self: flex-start;
+}
+.homePara3 {
+  margin-bottom: 0px;
+}

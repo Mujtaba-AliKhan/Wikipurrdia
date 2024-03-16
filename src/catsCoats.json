@@ -1,0 +1,177 @@
+[
+  {
+    "color": "Solid Colors",
+    "colors": [
+      "Black",
+      "White",
+      "Gray",
+      "Chocolate",
+      "Cinnamon",
+      "Lilac"
+    ],
+    "description": [
+      "Solid colored cats are known to have a wide range of personalities, from outgoing and playful to calm and reserved. They often exhibit strong bonds with their owners and enjoy interactive play and attention. These cats thrive on companionship and can be quite affectionate towards their human family members. They may enjoy cuddling and lounging around the house, but they also have a playful side and love engaging in games and activities that stimulate their minds and bodies.",
+      "In terms of diet, solid colored cats require a balanced and nutritious diet to maintain their overall health and energy levels. Their diet should consist of high-quality protein sources, essential vitamins, and minerals. It's important to provide them with plenty of fresh water to stay hydrated, especially if they have darker coats like black or chocolate, which can make them more prone to dehydration."
+    ],
+    "url": "./Coats/Solid.png"
+  },
+  {
+    "color": "Bi Color",
+    "colors": [
+      "Black and White",
+      "Blue and White",
+      "Gray and White",
+      "Chocolate and White",
+      "Lilac and White"
+    ],
+    "description": [
+      "Bi colored cats can display diverse behaviors, with some being highly sociable and affectionate, while others may be more independent. Their personalities may vary depending on individual genetics and early socialization experiences. These cats often have a striking appearance with contrasting patches of color on their bodies. They may have unique markings that make them stand out from other cats. Bi color cats are known for their expressive eyes and playful demeanor.",
+      "In terms of diet, bi colored cats benefit from a diet that supports their activity level and may require portion control to prevent overeating and weight gain. It's important to provide them with a balanced diet that includes lean protein sources, complex carbohydrates, and essential fatty acids. They may also benefit from supplements that support joint health and mobility, especially as they age."
+    ],
+    "url": "./Coats/Bi-color.png"
+  },
+  {
+    "color": "Tabby Patterns",
+    "colors": [
+      "Classic Tabby",
+      "Mackerel Tabby",
+      "Spotted Tabby",
+      "Ticked Tabby"
+    ],
+    "description": [
+      "Tabby patterned cats are often described as friendly, outgoing, and playful. They tend to have curious and adventurous personalities, enjoying exploration and interactive toys. These cats may have distinctive coat patterns, including stripes, spots, or swirls. Each tabby pattern is unique, giving these cats a one-of-a-kind appearance. Tabby patterned cats are known for their intelligence and problem-solving abilities. They may enjoy puzzle toys or activities that challenge their minds.",
+      "When it comes to diet, tabby patterned cats need a balanced diet to support their active lifestyle and may benefit from food puzzles or slow-feeders to prevent rapid eating. It's important to provide them with a variety of textures and flavors to keep mealtime interesting. They may enjoy wet food as a treat or supplement to their regular diet, as it provides hydration and additional nutrients."
+    ],
+    "url": "./Coats/Tabby.png"
+  },
+  {
+    "color": "Ginger",
+    "colors": [
+      "Orange",
+      "Red",
+      "Cream"
+    ],
+    "description": [
+      "Ginger cats, also known as orange, red, or cream cats, are famous for their vibrant and warm coat colors. They are often described as affectionate, friendly, and outgoing. Ginger cats are known for their playful nature and enjoy interactive play sessions with their owners. They can form strong bonds with their human family members and are often quite social.",
+      "In terms of diet, ginger cats require a balanced and nutritious diet to support their active lifestyle. Their diet should include high-quality protein sources, essential vitamins, and minerals. It's important to monitor their food intake to prevent obesity, as some ginger cats may have a tendency to overeat. Additionally, providing them with plenty of fresh water is crucial for their overall health and well-being."
+    ],
+    "url": "./Coats/Ginger.jpg"
+  },
+  {
+    "color": "Tortoiseshell",
+    "colors": [
+      "Tortoiseshell"
+    ],
+    "description": [
+      "Tortoiseshell cats are known for their unique and often spirited personalities. They can be affectionate and loving towards their owners but may also display independent streaks. Their behavior can vary widely, from being talkative and energetic to calm and reserved. These cats often have a combination of black, orange, and cream colors in their coats, giving them a distinctive appearance. Tortoiseshell cats may have a strong-willed nature and enjoy having their own space.",
+      "In terms of diet, tortoiseshell cats require a balanced diet with plenty of hydration to support their active nature. They may benefit from wet food as it provides additional moisture and can help prevent urinary tract issues. It's important to monitor their weight and adjust their diet as needed to maintain a healthy body condition."
+    ],
+    "url": "./Coats/Tortoiseshell.jpg"
+  },
+  {
+    "color": "Calico",
+    "colors": [
+      "Calico"
+    ],
+    "description": [
+      "Calico cats are often characterized by their outgoing and playful personalities. They tend to be sociable and enjoy interacting with their human companions. However, some calico cats may also exhibit more independent behavior. These cats have a distinctive coat pattern with patches of white, black, and orange or red. Each calico cat has a unique combination of colors, making them visually striking. Calico cats may have a strong bond with their owners and enjoy being part of the family.",
+      "In terms of diet, calico cats need a nutritious and balanced diet to maintain their health and may benefit from regular play sessions to prevent boredom. They may enjoy interactive toys or activities that engage their minds and bodies. It's important to provide them with plenty of stimulation to prevent behavioral issues and keep them happy and healthy."
+    ],
+    "url": "./Coats/Calico.jpg"
+  },
+  {
+    "color": "Colorpoints",
+    "colors": [
+      "Siamese",
+      "Seal Point",
+      "Chocolate Point",
+      "Blue Point",
+      "Lilac Point",
+      "Red Point",
+      "Cream Point",
+      "Tortie Point"
+    ],
+    "description": [
+      "Colorpoint cats, such as Siamese, are known for their affectionate and vocal nature. They form strong bonds with their owners and thrive on attention and companionship. These cats have a distinctive coat pattern with darker points on their ears, face, paws, and tail. The rest of their bodies are lighter in color, creating a striking contrast. Colorpoint cats may have a playful and mischievous personality, enjoying interactive games and toys.",
+      "For their diet, colorpoint cats benefit from high-quality, protein-rich food to support their energetic lifestyle. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a balanced diet that meets their nutritional needs and helps maintain a healthy weight."
+    ],
+    "url": "./Coats/Colorpoint.png"
+  },
+  {
+    "color": "Smoke",
+    "colors": [
+      "Smoke"
+    ],
+    "description": [
+      "Smoke-colored cats often have laid-back and relaxed personalities. They tend to be gentle and easygoing, enjoying lounging around and observing their surroundings. These cats have a unique coat coloration with solid black or gray fur at the roots, gradually fading into a lighter color at the tips. Smoke-colored cats may have a mysterious and elegant appearance, drawing attention wherever they go.",
+      "When it comes to diet, smoke-colored cats require a balanced diet to maintain their overall well-being. They may have specific dietary needs based on their age, weight, and activity level. It's important to provide them with a variety of textures and flavors to keep mealtime interesting and nutritious."
+    ],
+    "url": "./Coats/Smoke.jpg"
+  },
+  {
+    "color": "Van",
+    "colors": [
+      "Van"
+    ],
+    "description": [
+      "Van-patterned cats are often characterized by their affectionate and social nature. They tend to form strong bonds with their owners and enjoy being involved in household activities. These cats have a distinctive coat pattern with color mostly on their heads and tails, while the rest of their bodies are white. Van-patterned cats may have a playful and energetic personality, enjoying interactive games and toys.",
+      "For their diet, van-patterned cats need a nutritious diet to support their active lifestyle. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a balanced diet that meets their nutritional needs and helps maintain a healthy weight."
+    ],
+    "url": "./Coats/Van.jpg"
+  },
+  {
+    "color": "Blue Cream",
+    "colors": [
+      "Blue-Cream"
+    ],
+    "description": [
+      "Blue-cream cats can have diverse personalities, ranging from affectionate and outgoing to more reserved and independent. These cats often have a unique coat coloration with blue-gray fur and cream-colored patches, creating a visually striking appearance. Blue-cream cats may have a playful and curious nature, enjoying exploring their surroundings and interacting with their human family members.",
+      "In terms of diet, they require a balanced diet to support their health and energy levels. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a variety of textures and flavors to keep mealtime interesting and nutritious."
+    ],
+    "url": "./Coats/Blue Cream.png"
+  },
+  {
+    "color": "Lynx Point",
+    "colors": [
+      "Lynx Point"
+    ],
+    "description": [
+      "Lynx-point cats often have friendly and sociable personalities. They enjoy interacting with their owners and may be quite vocal, expressing their needs and desires. These cats have a distinctive coat pattern with tabby markings on their faces, ears, and tails, giving them a wild and exotic appearance. Lynx-point cats may have a playful and energetic nature, enjoying interactive games and toys.",
+      "For their diet, they need a balanced diet rich in protein and nutrients to support their active lifestyle. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a balanced diet that meets their nutritional needs and helps maintain a healthy weight."
+    ],
+    "url": "./Coats/Lynx Point.jpg"
+  },
+  {
+    "color": "Fawn",
+    "colors": [
+      "Fawn"
+    ],
+    "description": [
+      "Fawn-colored cats are known for their gentle and affectionate personalities. They tend to be calm and easygoing, enjoying cuddling and companionship with their owners. These cats have a unique coat coloration with light tan fur, creating a soft and elegant appearance. Fawn-colored cats may have a relaxed and laid-back nature, preferring to lounge around the house and observe their surroundings.",
+      "In terms of diet, they require a balanced diet to maintain their overall health and well-being. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a variety of textures and flavors to keep mealtime interesting and nutritious."
+    ],
+    "url": "./Coats/Fawn.jpg"
+  },
+  {
+    "color": "Chinchilla",
+    "colors": [
+      "Chinchilla"
+    ],
+    "description": [
+      "Chinchilla cats often have sweet and affectionate personalities. They enjoy being around people and may form strong bonds with their owners. These cats have a distinctive coat coloration with silver-tipped fur, creating a shimmering and elegant appearance. Chinchilla cats may have a playful and curious nature, enjoying exploring their surroundings and interacting with their human family members.",
+      "For their diet, they require a balanced diet tailored to their activity level and may benefit from interactive feeding methods. It's important to provide them with plenty of stimulation and enrichment to prevent boredom and keep them mentally and physically healthy."
+    ],
+    "url": "./Coats/Chinchilla.jpg"
+  },
+  {
+    "color": "Apricot",
+    "colors": [
+      "Apricot"
+    ],
+    "description": [
+      "Apricot-colored cats can have varied personalities, ranging from affectionate and outgoing to more reserved and independent. These cats have a unique coat coloration with peach-colored fur, creating a soft and warm appearance. Apricot-colored cats may have a playful and energetic nature, enjoying interactive games and toys.",
+      "In terms of diet, they require a balanced diet to support their health and energy levels. They may have specific dietary requirements based on their age, weight, and activity level. It's important to provide them with a variety of textures and flavors to keep mealtime interesting and nutritious."
+    ],
+    "url": "./Coats/Apricot.jpg"
+  }
+]

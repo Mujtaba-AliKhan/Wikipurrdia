@@ -1,0 +1,44 @@
+/* .mainFooter {
+  position: relative;
+} */
+
+.footerContainer {
+  height: 250px;
+  background-color: #00000096;
+  bottom: 0;
+  width: 100%;
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.followUsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+.followUsContainer i {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.followUsContainer i:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.emailContainer h3:hover {
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  text-decoration: underline;
+}
+.emailContainer a {
+  text-decoration: none;
+  color: white;
+}
+
+.copyrightContainer {
+  color: rgba(255, 255, 255, 0.5);
+}

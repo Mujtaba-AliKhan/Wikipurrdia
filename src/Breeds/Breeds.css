@@ -1,0 +1,59 @@
+.breedsContainer {
+  text-align: center;
+}
+.breedsSearchContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.breedsSearchBox {
+  border-radius: 10px;
+  font-size: 1rem;
+  padding: 1rem;
+  width: 30%;
+}
+
+.breedGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.breedGrid h1 {
+  filter: drop-shadow(4px 4px 0px #000000);
+}
+.breedGridItem {
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 20px;
+  background-color: #e28862;
+  margin: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+}
+.breedGridItem img {
+  height: 250px;
+  border-radius: 20px 20px 0 0;
+  width: 400px;
+  user-select: none;
+}
+.breedGrid a {
+  text-decoration: none;
+  color: white;
+}
+.cat-description {
+  text-align: left;
+  font-size: 1.4rem;
+  margin: 0 4rem;
+}
+
+@keyframes scalePopup {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
